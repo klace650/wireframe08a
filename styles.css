@@ -53,3 +53,12 @@ main > article > section {
   box-sizing: border-box;
   padding-left: 30px;
 }
+footer{
+  height: 100px;
+  background-color: grey;
+  margin-top: 30px;
+}
+button:hover{
+  background-color: hotpink;
+  transition: 400ms;
+}
